@@ -1,0 +1,10 @@
+*.pyc
+.svn
+.project
+.pydevproject
+/dist
+/build
+*.swp
+*.kate-swp
+*.py~
+*~
