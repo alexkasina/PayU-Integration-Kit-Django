@@ -1,5 +1,5 @@
 from django.conf.urls import patterns, include, url
 
-urlpatterns = patterns('',
+urlpatterns = [
     (r'^order/', include('cart.urls')),
-)
+]
